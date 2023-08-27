@@ -2,6 +2,14 @@
 
 Github Repositories Explorer is a simple website which integrated with [GitHub API](https://docs.github.com) to support such features as "Search user by username" and "List found user's repositories".
 
+## Implementations
+
+- Request Data Caching
+- Unit Testing
+- Integration Testing
+- Code Documentation
+- Reuseable Component
+
 ## Demo
 
 Live Demo URL: [https://github-repositories-explorer-epw.netlify.app](https://github-repositories-explorer-epw.netlify.app)
