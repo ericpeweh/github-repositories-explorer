@@ -4,7 +4,7 @@ Github Repositories Explorer is a simple website which integrated with [GitHub A
 
 ## Demo
 
-Live Demo URL: [htttps://github-repositories-explorer.netlify.app](htttps://github-repositories-explorer.netlify.app)
+Live Demo URL: [https://github-repositories-explorer-epw.netlify.app](https://github-repositories-explorer-epw.netlify.app)
 
 ## Installation
 
